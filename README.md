@@ -1,4 +1,4 @@
-* This is the first hands on project that I made in early 2018. I'm only pushing it now on GitHub. *
+// This is the first hands on project that I made in early 2018. I'm only pushing it now on GitHub. //
 
 Introduction:
 This is an automatic mp3 metadata editor. The metadata of an mp3 file, which contains information such as song title, album name, artist, album cover etc is usually empty or has incorrect information. 
