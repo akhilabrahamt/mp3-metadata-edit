@@ -20,7 +20,9 @@ I have coded the program in two separate files.
 
 
 Instructions:
+* For this to work, you must have an account in ACRCloud. You'll get the access key and other details from there.
 * medit.py is the main file. 
+* Edit the 'xxx' in medit.py with the details from ACRCloud.
 * To run this, you have to mention it as 'python medit.py song.mp3' in terminal.
 
 
