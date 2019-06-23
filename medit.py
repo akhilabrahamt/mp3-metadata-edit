@@ -24,11 +24,8 @@ if __name__ == '__main__':
 
     music = (result1['metadata'])['music']
     album = ((music[0])['album'])['name']
-    print(album)
     title = (music[0])['title']
-    print(title)
     artists = (((music[0])['artists'])[0])['name']
-    print(artists)
     
     get_image(title)
     try:
